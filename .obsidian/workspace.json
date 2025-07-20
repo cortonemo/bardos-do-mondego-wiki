@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "📄 Universidade_Arcana.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "📄 Universidade_Arcana"
             }
           }
         ]
@@ -170,7 +170,22 @@
   },
   "active": "9a0af54107a51dce",
   "lastOpenFiles": [
-    "LICENSE.md",
-    "README.md"
+    "📄 Grande_Biblioteca.md",
+    "📄 Universidade_Arcana.md",
+    "📄 Rua_do_Dragao_Enferrujado.md",
+    "📄 Estalagem_da_Companhia.md",
+    "📄 Templo_de_Oghma.md",
+    "📄 Slum_Quarter.md",
+    "📄 City_Market.md",
+    "📄 Foreign_Quarter.md",
+    "📄 Artisans_Quarter.md",
+    "📄 Thieves_Quarter.md",
+    "📄 River_Quarter.md",
+    "📄 University_Quarter.md",
+    "📄 Garden_Quarter.md",
+    "📄 High_Quarter.md",
+    "📄 Free_City_of_Greyhawk.md",
+    "README.md",
+    "LICENSE.md"
   ]
 }
